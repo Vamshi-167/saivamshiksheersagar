@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sai Vamshi Ksheersagar | Data Analyst Portfolio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .section-divider { border-top: 2px solid #e5e7eb; margin: 2rem 0; }
+        .news-item { margin: 1rem 0; padding-left: 1rem; border-left: 3px solid #3b82f6; }
+    </style>
+</head>
+<body class="bg-white max-w-4xl mx-auto px-4 py-8 font-sans">
+
+    <!-- Header Section -->
+    <header class="text-center mb-12">
+        <h1 class="text-3xl font-bold mb-2">SAI VAMSHI KSHEERSAGAR</h1>
+        <p class="text-gray-600 mb-4">Data Analyst | Power BI Expert | AI/ML Practitioner</p>
+        <div class="flex justify-center space-x-4">
+            <a href="mailto:saivamshiksheersagar@gmail.com" class="text-blue-600">Email</a>
+            <a href="https://linkedin.com/in/yourprofile" class="text-blue-600">LinkedIn</a>
+            <a href="https://github.com/yourprofile" class="text-blue-600">GitHub</a>
+        </div>
+    </header>
+
+    <!-- Profile Section -->
+    <section class="mb-12">
+        <p class="text-gray-700">
+            I am a Data Analytics graduate student at Clark University. My expertise includes Power BI, SQL, 
+            Python, and Machine Learning. Passionate about transforming raw data into actionable insights 
+            through innovative analytics solutions.
+        </p>
+    </section>
+
+    <!-- News Section -->
+    <section class="mb-12">
+        <h2 class="text-2xl font-bold mb-4">News</h2>
+        <div class="news-item">
+            <p><strong>May 24:</strong> Graduated with Master's in Data Analytics from Clark University</p>
+        </div>
+        <div class="news-item">
+            <p><strong>Apr 24:</strong> Completed Tata's Data Visualization Job Simulation</p>
+        </div>
+        <div class="news-item">
+            <p><strong>Mar 24:</strong> Earned Microsoft Azure Certification</p>
+        </div>
+    </section>
+
+    <div class="section-divider"></div>
+
+    <!-- Education Section -->
+    <section class="mb-12">
+        <h2 class="text-2xl font-bold mb-4">Education</h2>
+        <div class="mb-6">
+            <h3 class="font-bold">Clark University | Boston, USA</h3>
+            <p>Master's in Data Analytics | Jan 2023 - May 2024</p>
+            <p class="text-gray-600 mt-1">GPA: 4.0/4.0</p>
+            <p class="text-gray-600">Relevant Coursework: Machine Learning, Advanced SQL, Data Visualization</p>
+        </div>
+    </section>
+
+    <div class="section-divider"></div>
+
+    <!-- Work Experience -->
+    <section class="mb-12">
+        <h2 class="text-2xl font-bold mb-4">Work Experience</h2>
+        
+        <div class="mb-6">
+            <h3 class="font-bold">Power BI Developer & Research Assistant</h3>
+            <p>Clark University | Mar 2023 - May 2024</p>
+            <ul class="list-disc pl-6 mt-2">
+                <li>Designed 15+ interactive dashboards reducing reporting time by 40%</li>
+                <li>Automated data workflows using Python (Pandas)</li>
+            </ul>
+        </div>
+
+        <div class="mb-6">
+            <h3 class="font-bold">Data Engineer Analyst</h3>
+            <p>Pantech Solutions | Jul 2021 - Dec 2022</p>
+            <ul class="list-disc pl-6 mt-2">
+                <li>Developed ETL pipelines improving data reliability by 35%</li>
+                <li>Implemented Row-Level Security in Power BI dashboards</li>
+            </ul>
+        </div>
+    </section>
+
+    <div class="section-divider"></div>
+
+    <!-- Projects -->
+    <section class="mb-12">
+        <h2 class="text-2xl font-bold mb-4">Projects</h2>
+        
+        <div class="mb-6">
+            <h3 class="font-bold">AI-Powered Cryptocurrency Predictor</h3>
+            <p class="text-gray-600">Python, Power BI, AWS</p>
+            <ul class="list-disc pl-6 mt-2">
+                <li>Achieved 85% accuracy in crypto trend predictions</li>
+                <li>Developed interactive dashboard at coinpredictorx.com</li>
+            </ul>
+        </div>
+
+        <div class="mb-6">
+            <h3 class="font-bold">Crime Analysis Dashboard</h3>
+            <p class="text-gray-600">Tableau, Python, SQL</p>
+            <ul class="list-disc pl-6 mt-2">
+                <li>Improved police response efficiency by 50%</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="text-center text-gray-600 mt-12">
+        <p>© 2024 Sai Vamshi Ksheersagar | 
+            <a href="https://saivamshiksheersagar.github.io" class="text-blue-600">Portfolio</a>
+        </p>
+    </footer>
+</body>
+</html>
